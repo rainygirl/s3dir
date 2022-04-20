@@ -2,7 +2,7 @@
 s3dir
 =====
 
-s3dir is CLI file manager with S3 and Kubernetes inspired from Pctools, Norton Commander and Mdir.
+s3dir is CLI file manager with S3 and Kubernetes inspired from Pctools, Norton Commander and Mdir <https://www.huffingtonpost.kr/2016/05/19/story_n_10042448.html>.
 
 s3dir requires Python version 3.9 and above, kubectl CLI tool, and also requires valid AWS or Kubernetes permissions on CLI environment.
 
@@ -58,5 +58,7 @@ Credits
 -------
 
 * `Lee JunHaeng aka rainygirl <https://rainygirl.com/>`_.
+
+
 
 
