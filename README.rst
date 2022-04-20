@@ -17,7 +17,7 @@ Getting Started
 
 Try it with::
 
-    pip3 install s3dir
+    pip install s3dir
     s3dir
 
 You can clone the git repo::
