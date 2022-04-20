@@ -18,14 +18,15 @@ Getting Started
 Try it with::
 
     pip install s3dir
-    s3dir
+    s3dir s3://mybucket  # if you want to connect S3 bucket
+    s3dir k  # if you want to connect k8s pod
 
 You can clone the git repo::
 
     git clone https://github.com/rainygirl/s3dir
     cd s3dir
     python3 setup.py install
-    s3dir
+    s3dir k
 
 -------------
 Shortcut keys
